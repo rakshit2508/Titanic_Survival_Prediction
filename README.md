@@ -48,13 +48,13 @@ https://www.kaggle.com/c/titanic/data
 
 ## 4. Exploratory Data Analysis
 
-#### Visualization of Plots
-![Feature correlation](https://github.com/rakshit2508/Team-10-Project/blob/main/imgs/corr.png)
-#### Feature importance
-![Feature importance](https://github.com/rakshit2508/Team-10-Project/blob/main/imgs/FEATUREIMPORTANCE_CSP.png)
-#### Final Comparison
-![Final Comparison](https://github.com/rakshit2508/Team-10-Project/blob/main/imgs/RMSE_FINAL_CSP.png)
+#### Visualization Correlation Between Embarked, Sex and Survived 
+![Visualization Correlation Between Embarked, Sex and Survived ](https://github.com/rakshit2508/Titanic_Survival_Prediction/blob/main/imgs/Embarked_Sex_Survived.png)
+#### Visualization Correlation Between P_class, Age and Survived 
+![Visualization Correlation Between P_class, Age and Survived ](https://github.com/rakshit2508/Titanic_Survival_Prediction/blob/main/imgs/P_class_Age_Survived.png)
+#### Visualization Correlation Between P_class, Age, Sex and Survived 
+![Visualization Correlation Between P_class, Age, Sex and Survived ](https://github.com/rakshit2508/Titanic_Survival_Prediction/blob/main/imgs/P_class_Age_Sex_Survived.png)
 
 
 ## 5. References
-1. https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+1. https://www.kaggle.com/c/titanic
